@@ -1,0 +1,6 @@
+{
+    "go.buildOnSave": "package",
+    "go.buildFlags": [
+        "-o","./bin/my.exe"
+    ]
+}
