@@ -1,0 +1,7 @@
+---
+applications:
+- name:mychat
+  memory: 200M
+  instances: 1
+  command: go run ./bin/my.exe 
+  random-route: true
